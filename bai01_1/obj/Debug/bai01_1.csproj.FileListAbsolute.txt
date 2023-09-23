@@ -1,0 +1,9 @@
+D:\c#\Nguyễn Tiến Mười_2121110185\bai01_1\bin\Debug\bai01_1.exe.config
+D:\c#\Nguyễn Tiến Mười_2121110185\bai01_1\bin\Debug\bai01_1.exe
+D:\c#\Nguyễn Tiến Mười_2121110185\bai01_1\bin\Debug\bai01_1.pdb
+D:\c#\Nguyễn Tiến Mười_2121110185\bai01_1\obj\Debug\bai01_1.csproj.AssemblyReference.cache
+D:\c#\Nguyễn Tiến Mười_2121110185\bai01_1\obj\Debug\bai01_1.Properties.Resources.resources
+D:\c#\Nguyễn Tiến Mười_2121110185\bai01_1\obj\Debug\bai01_1.csproj.GenerateResource.cache
+D:\c#\Nguyễn Tiến Mười_2121110185\bai01_1\obj\Debug\bai01_1.csproj.CoreCompileInputs.cache
+D:\c#\Nguyễn Tiến Mười_2121110185\bai01_1\obj\Debug\bai01_1.exe
+D:\c#\Nguyễn Tiến Mười_2121110185\bai01_1\obj\Debug\bai01_1.pdb
