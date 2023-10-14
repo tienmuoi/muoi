@@ -1,0 +1,8 @@
+D:\c#\Nguyentienmuoi_2121110185\bai02_1\obj\Debug\bai02_1.Properties.Resources.resources
+D:\c#\Nguyentienmuoi_2121110185\bai02_1\obj\Debug\bai02_1.csproj.GenerateResource.cache
+D:\c#\Nguyentienmuoi_2121110185\bai02_1\obj\Debug\bai02_1.csproj.CoreCompileInputs.cache
+D:\c#\Nguyentienmuoi_2121110185\bai02_1\bin\Debug\bai02_1.exe.config
+D:\c#\Nguyentienmuoi_2121110185\bai02_1\bin\Debug\bai02_1.exe
+D:\c#\Nguyentienmuoi_2121110185\bai02_1\bin\Debug\bai02_1.pdb
+D:\c#\Nguyentienmuoi_2121110185\bai02_1\obj\Debug\bai02_1.exe
+D:\c#\Nguyentienmuoi_2121110185\bai02_1\obj\Debug\bai02_1.pdb

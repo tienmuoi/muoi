@@ -1,21 +1,25 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.7.34031.279
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai01_1", "bai01_1\bai01_1.csproj", "{4627EE34-B9F4-4A04-924C-F2E109003EB8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai01_2", "bai01_2\bai01_2.csproj", "{F0C70AD2-D482-4DBD-B56C-26FBB7105BD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buoi1_4", "buoi1_4\buoi1_4.csproj", "{AFCE06E6-DA58-4355-9A12-DEA09DDCFAFB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai01_4", "buoi1_4\bai01_4.csproj", "{AFCE06E6-DA58-4355-9A12-DEA09DDCFAFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai1_3", "bai1_3\bai1_3.csproj", "{156567FD-826E-4F60-9F32-8E918A3CDD39}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai01_3", "bai1_3\bai01_3.csproj", "{156567FD-826E-4F60-9F32-8E918A3CDD39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buoi1_6", "buoi1_6\buoi1_6.csproj", "{769D07EB-74A9-4BBE-A140-A0705517C05E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai01_6", "buoi1_6\bai01_6.csproj", "{769D07EB-74A9-4BBE-A140-A0705517C05E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buoi1_7", "buoi1_7\buoi1_7.csproj", "{CB96F74E-6CA6-47BC-AF51-13E21E89A7BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai01_7", "buoi1_7\bai01_7.csproj", "{CB96F74E-6CA6-47BC-AF51-13E21E89A7BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai1_5", "bai1_5\bai1_5.csproj", "{1CDE1565-848C-4CF1-96C1-36F1B3AC6F33}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai01_5", "bai1_5\bai01_5.csproj", "{1CDE1565-848C-4CF1-96C1-36F1B3AC6F33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai02_1", "bai02_1\bai02_1.csproj", "{570EC46D-AFA2-4F1A-A30B-80E647BB5B37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai02_2", "bai02_2\bai02_2.csproj", "{2A2CD82A-21AA-4C1B-91CD-AF6DFCBB84C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{1CDE1565-848C-4CF1-96C1-36F1B3AC6F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CDE1565-848C-4CF1-96C1-36F1B3AC6F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CDE1565-848C-4CF1-96C1-36F1B3AC6F33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{570EC46D-AFA2-4F1A-A30B-80E647BB5B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570EC46D-AFA2-4F1A-A30B-80E647BB5B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{570EC46D-AFA2-4F1A-A30B-80E647BB5B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{570EC46D-AFA2-4F1A-A30B-80E647BB5B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A2CD82A-21AA-4C1B-91CD-AF6DFCBB84C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A2CD82A-21AA-4C1B-91CD-AF6DFCBB84C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A2CD82A-21AA-4C1B-91CD-AF6DFCBB84C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A2CD82A-21AA-4C1B-91CD-AF6DFCBB84C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

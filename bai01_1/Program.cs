@@ -23,7 +23,6 @@ namespace bai01_1
 
             // Nhập giá trị cho biến a
             a = Convert.ToInt32(Console.ReadLine());
-
             Console.Write("Nhập số b: ");
 
             // Nhập giá trị cho biến b và ép kiểu
