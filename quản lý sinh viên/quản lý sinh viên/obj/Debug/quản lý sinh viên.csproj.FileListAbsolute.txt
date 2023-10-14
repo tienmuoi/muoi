@@ -1,0 +1,8 @@
+D:\c#\quản lý sinh viên\quản lý sinh viên\obj\Debug\quản lý sinh viên.csproj.AssemblyReference.cache
+D:\c#\quản lý sinh viên\quản lý sinh viên\obj\Debug\quản_lý_sinh_viên.FromDangkysinhvien.resources
+D:\c#\quản lý sinh viên\quản lý sinh viên\obj\Debug\quản_lý_sinh_viên.Form1.resources
+D:\c#\quản lý sinh viên\quản lý sinh viên\obj\Debug\quản_lý_sinh_viên.Properties.Resources.resources
+D:\c#\quản lý sinh viên\quản lý sinh viên\obj\Debug\quản lý sinh viên.csproj.GenerateResource.cache
+D:\c#\quản lý sinh viên\quản lý sinh viên\obj\Debug\quản lý sinh viên.csproj.CoreCompileInputs.cache
+D:\c#\quản lý sinh viên\quản lý sinh viên\obj\Debug\quản_lý_sinh_viên.Fromquanlysinhvien.resources
+D:\c#\quản lý sinh viên\quản lý sinh viên\obj\Debug\quản_lý_sinh_viên.FormDangnhap.resources
